@@ -2,11 +2,8 @@
 title: Projects
 categories: ["projects", "planning"]
 tags: ["delphi", "agile", "planning", "estimation"]
-date: 2026-02-13
+date: 2026-04-10
 draft: false
-weight: 2
-series: ["Delphi project"]
-series_order: 2
 showauthor: true
 authors:
   - Bubberr
