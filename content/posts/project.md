@@ -1,3 +1,19 @@
+---
+title: Projects
+categories: ["projects", "planning"]
+tags: ["delphi", "agile", "planning", "estimation"]
+date: 2026-02-13
+draft: false
+weight: 2
+series: ["Delphi project"]
+series_order: 2
+showauthor: true
+authors:
+  - Bubberr
+---
+
+
+
 # Marcus Rasmussen
 **Software Developer** · [github.com/Bubberr](https://github.com/Bubberr) · [linkedin.com/in/marcus-rasmussen-a346bb254](https://linkedin.com/in/marcus-rasmussen-a346bb254)
  
