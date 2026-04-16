@@ -4,6 +4,8 @@ date: 2026-02-04
 draft: false
 showauthor: true
 ---
+# Marcus Rasmussen
+**Software Developer** · [Github](https://github.com/Bubberr) · [LinkedIn](https://linkedin.com/in/marcus-rasmussen-a346bb254)
 
 Welcome to my play ground. This is where I share my projects, blog posts, and more about my work as a student, developer and designer.
 

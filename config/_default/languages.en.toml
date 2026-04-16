@@ -12,3 +12,4 @@ dateFormat = "2 January 2006"
 
 ["params.author"]
 name = "Marcus Rasmussen"
+headline = false

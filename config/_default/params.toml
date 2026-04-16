@@ -1,7 +1,7 @@
 colorScheme = "blowfish"
 defaultAppearance = "light"
 autoSwitchAppearance = true
-enableA11y = false
+enableA11y = true
 enableSearch = true
 enableCodeCopy = false
 enableStructuredBreadcrumbs = false
@@ -21,6 +21,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
+smartTOC = ""
 
 [header]
 layout = "basic"
@@ -78,7 +79,7 @@ showSummary = false
 showViews = false
 showLikes = false
 showTableOfContents = false
-showCards = false
+showCards = true
 orderByWeight = false
 groupByYear = true
 cardView = false
