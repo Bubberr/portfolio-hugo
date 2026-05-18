@@ -150,6 +150,6 @@ That distinction matters. Using AI as an autocomplete tool is not the same as us
 
 This is not an experiment in cutting-edge AI. It is an exercise in building something real, for a real user, under real constraints.
 
-I plan to use spec-driven development actively: writing acceptance criteria, letting them drive implementation, and using Claude Code as an agent — not as autocomplete. That is the approach I will be evaluating myself against in the reflections along the way.
+I plan to use spec-driven development actively: writing acceptance criteria, letting them drive implementation, and using Claude Code as an agent not as autocomplete. That is the approach I will be evaluating myself against in the reflections along the way.
 
 And if the system at some point actually replaces an inbox full of emails at E.G., that would not be a bad outcome.

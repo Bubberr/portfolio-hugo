@@ -1,7 +1,10 @@
 {
   "permissions": {
     "allow": [
-      "WebSearch"
+      "WebSearch",
+      "Bash(git -C \"C:\\\\Users\\\\marcu\\\\Semester 4\\\\portfolio-hugo\" add content/posts/eg-vendor-system.md static/)",
+      "Bash(git -C 'C:\\\\Users\\\\marcu\\\\Semester 4\\\\portfolio-hugo' commit -m ' *)",
+      "Bash(git *)"
     ]
   }
 }
