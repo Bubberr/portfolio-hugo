@@ -40,7 +40,7 @@ Vendor receives an automatic confirmation or rejection email
 
 That is the MVP. Everything else is scope creep unless it solves a concrete problem.
 
-![Activity diagram showing the vendor application flow](/posts/images/activity-diagram.png)
+![Activity diagram showing the vendor application flow](/images/activity-diagram.png)
 
 ---
 
