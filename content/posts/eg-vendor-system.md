@@ -40,6 +40,8 @@ Vendor receives an automatic confirmation or rejection email
 
 That is the MVP. Everything else is scope creep unless it solves a concrete problem.
 
+![Activity diagram showing the vendor application flow](/posts/images/activity-diagram.png)
+
 ---
 
 ## Technology considerations
@@ -121,6 +123,26 @@ The system stores contact details from vendors. That means I need to:
 - Ensure data is deleted or anonymised after the market season ends
 
 None of this is complicated — but it has to be designed in from the start, not glued on afterwards.
+
+---
+
+## What we still need from the client
+
+Before development begins in full, there are open questions that require answers from Lise:
+
+- **A list of returning vendors** from previous years — both as a basis for outreach and to avoid re-entering known contacts from scratch
+- **A floor plan of the market area** showing where stalls can be placed, which Lise needs for internal planning
+- **Stall capacity and preferred placements** — how many stalls are available in total, and whether some positions carry higher priority than others
+
+These are not blockers for the MVP, but they will shape how the admin dashboard is designed and how useful it becomes in practice.
+
+---
+
+## The AI layer in context
+
+The AI use in this project has two distinct roles. AI agents — specifically Claude Code — drive the implementation itself: writing code, running tests, and working from the acceptance criteria rather than free-form prompting. AI assistants play a separate advisory role: helping evaluate architectural decisions, suggesting approaches to common problems like handling new applicants mid-season, and drafting the prompts that feed back into the agentic workflow.
+
+That distinction matters. Using AI as an autocomplete tool is not the same as using it as an agent that works from a spec. This project is partly an exercise in telling the difference.
 
 ---
 
